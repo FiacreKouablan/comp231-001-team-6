@@ -23,17 +23,17 @@ public class MainActivity extends AppCompatActivity {
             case R.id.loginBtn:
 
                 setContentView(R.layout.activity_login);
-                Toast.makeText(this, "Welcome back to Covid Tracer", Toast.LENGTH_LONG).show();
+                Toast.makeText(this, "Welcome back to COVID Tracker", Toast.LENGTH_LONG).show();
                 startActivity(new Intent(view.getContext(), Login.class));
                 break;
 
-            //Placeholder code for second button.
-//            case R.id.signupBtn:
-//
-//                //setContentView(R.layout.activity_exercise1);
-//                Toast.makeText(this, "Welcome to Covid Tracer", Toast.LENGTH_LONG).show();
-//                startActivity(new Intent(view.getContext(), Register.class));
-//                break;
+            //button to open registration page
+            case R.id.signupBtn:
+
+                setContentView(R.layout.activity_register);
+                Toast.makeText(this, "Welcome to COVID Tracker", Toast.LENGTH_LONG).show();
+                startActivity(new Intent(view.getContext(), Register.class));
+                break;
 
             default: setContentView(R.layout.activity_main);
         }
