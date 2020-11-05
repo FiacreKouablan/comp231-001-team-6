@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fc87e5e-eb6f-4920-979e-54378ab5e5b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/comp231-001-team-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COVIDTracker/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COVIDTracker/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/COVIDTracker/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COVIDTracker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/COVIDTracker/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COVIDTracker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/COVIDTracker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COVIDTracker/app/src/main/java/com/example/covidtracker/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/COVIDTracker/app/src/main/java/com/example/covidtracker/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COVIDTracker/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/COVIDTracker/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jr8zn3mjPXMG3zjPjUlCglshqU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/COMP-304/TristenBriggs_COMP304Lab2_Ex1" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fc87e5e-eb6f-4920-979e-54378ab5e5b0" name="Default Changelist" comment="" />
+      <created>1604551115079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604551115079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="222" key="FileChooserDialogImpl" timestamp="1604553292234">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="531" y="222" key="FileChooserDialogImpl/0.0.1500.960/-1920.274.1920.1040@0.0.1500.960" timestamp="1604553292234" />
+  </component>
+</project>
