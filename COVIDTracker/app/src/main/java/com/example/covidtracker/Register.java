@@ -16,6 +16,7 @@ public class Register extends AppCompatActivity {
         populateProvinceSpinner();
     }
 
+    //add values to province spinner in registration form
     public void populateProvinceSpinner()
     {
         Spinner spinner = (Spinner) findViewById(R.id.spinnerProvince);
