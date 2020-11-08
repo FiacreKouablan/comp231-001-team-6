@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/COMP-304/TristenBriggs_COMP304Lab2_Ex1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/comp231-001-team-6-master/COVIDTracker" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -51,9 +51,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="222" key="FileChooserDialogImpl" timestamp="1604553292234">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="1218" y="333" key="FileChooserDialogImpl" timestamp="1604874800893">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="531" y="222" key="FileChooserDialogImpl/0.0.1500.960/-1920.274.1920.1040@0.0.1500.960" timestamp="1604553292234" />
+    <state x="1218" y="333" key="FileChooserDialogImpl/0.0.3440.1440@0.0.3440.1440" timestamp="1604874800893" />
   </component>
 </project>

@@ -12,6 +12,8 @@
         <activity android:name=".CheckAllUsersStatus"></activity>
         <activity android:name=".Register" />
         <activity android:name=".Login" />
+        <activity android:name=".Status" />
+        <activity android:name=".UpdateStatus" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
