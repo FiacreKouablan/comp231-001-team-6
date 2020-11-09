@@ -3,18 +3,26 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fc87e5e-eb6f-4920-979e-54378ab5e5b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/comp231-001-team-6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COVIDTracker/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COVIDTracker/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/COVIDTracker/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COVIDTracker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/COVIDTracker/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COVIDTracker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/COVIDTracker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COVIDTracker/app/src/main/java/com/example/covidtracker/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/COVIDTracker/app/src/main/java/com/example/covidtracker/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COVIDTracker/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/COVIDTracker/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8fc87e5e-eb6f-4920-979e-54378ab5e5b0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/comp231-001-team-6-master/COVIDTracker" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/yo" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -50,11 +58,28 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1218" y="333" key="FileChooserDialogImpl" timestamp="1604874800893">
-      <screen x="0" y="0" width="3440" height="1440" />
+    <state x="680" y="243" key="FileChooserDialogImpl" timestamp="1604882044666">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="531" y="222" key="FileChooserDialogImpl/0.0.1500.960/-1920.274.1920.1040@0.0.1500.960" timestamp="1604553292234" />
+    <state x="680" y="243" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1604882044666" />
     <state x="1218" y="333" key="FileChooserDialogImpl/0.0.3440.1440@0.0.3440.1440" timestamp="1604874800893" />
+    <state x="654" y="313" key="git4idea.merge.GitPullDialog" timestamp="1604881993057">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="654" y="313" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1604881993057" />
   </component>
 </project>
