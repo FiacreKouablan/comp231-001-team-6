@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ExposedPatient">
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="157dp"
+        android:layout_height="125dp"
+        app:srcCompat="@drawable/redhand"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="100dp" />
+
+    <TextView
+        android:id="@+id/txt_exposed"
+        android:layout_width="350dp"
+        android:layout_height="136dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/exposed_message"
+        android:textColor="#1A1B1B"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="282dp" />
+
+    <TextView
+        android:id="@+id/exposed_title"
+        android:layout_width="215dp"
+        android:layout_height="114dp"
+        android:text="@string/exposed_title"
+        android:textColor="#3F51B5"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="193dp"
+        tools:layout_editor_absoluteY="118dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

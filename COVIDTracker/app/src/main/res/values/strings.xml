@@ -1,5 +1,15 @@
 <resources>
     <string name="app_name">COVIDTracker</string>
+    <string name="ok_message">You have not been in contact with any person exposed to the virus, or visited a location subject to be at risk.
+    Please Stay indoor and continue following the government instructions </string>
+    <string name="ok_title">YOU ARE SAFE</string>
+    <string name="warning_title">YOU MIGHT HAVE BEEN EXPOSED</string>
+    <string name="warning_message">Someone at this location has been diagnosed with Covid-19. Please take a test now and self isolate for 14 days
+    . Call our services for further assistance.</string>
+    <string name="exposed_title">YOU HAVE BEEN EXPOSED IN THE LAST 10 DAYS</string>
+    <string name="exposed_message">This location has registered more than one cases of Covid-19 for the past 10 days. Please take a test now and self isolate for 14 days
+    .Call our services for further assistance.</string>
+
 
     <string-array name="provinces">
         <item>Alberta</item>

@@ -3,26 +3,13 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fc87e5e-eb6f-4920-979e-54378ab5e5b0" name="Default Changelist" comment="" />
+    <list default="true" id="0d4eb096-e998-49db-9b14-7194ffc16439" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/comp231-001-team-6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1jr8zn3mjPXMG3zjPjUlCglshqU" />
+  <component name="ProjectId" id="1kA9Hh2TuwtOXtKi4MEMow2QrPd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,46 +27,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/yo" />
-    <property name="project.structure.last.edited" value="SDK Location" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="memory.settings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8fc87e5e-eb6f-4920-979e-54378ab5e5b0" name="Default Changelist" comment="" />
-      <created>1604551115079</created>
+      <changelist id="0d4eb096-e998-49db-9b14-7194ffc16439" name="Default Changelist" comment="" />
+      <created>1605132442388</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604551115079</updated>
+      <updated>1605132442388</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="680" y="243" key="FileChooserDialogImpl" timestamp="1604882044666">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="531" y="222" key="FileChooserDialogImpl/0.0.1500.960/-1920.274.1920.1040@0.0.1500.960" timestamp="1604553292234" />
-    <state x="680" y="243" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1604882044666" />
-    <state x="1218" y="333" key="FileChooserDialogImpl/0.0.3440.1440@0.0.3440.1440" timestamp="1604874800893" />
-    <state x="654" y="313" key="git4idea.merge.GitPullDialog" timestamp="1604881993057">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="654" y="313" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1604881993057" />
   </component>
 </project>
