@@ -28,23 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aeae53d-d7db-4ae8-a08b-9fad72b441a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/render.experimental.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/covidtracker/ExposedPatient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/covidtracker/PotentialExposure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/covidtracker/SafePatient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/greenthumbjpg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/redhand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yellowhand.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_exposed_patient.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_potential_exposure.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_safe_patient.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/comp231-001-team-6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +172,14 @@
       <option name="presentableId" value="Default" />
       <updated>1604547528272</updated>
     </task>
+    <task id="LOCAL-00001" summary="first modification">
+      <created>1605140773976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605140773976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +193,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="first modification" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604547612100">
@@ -224,6 +220,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1604809749768" />
+    <state x="288" y="1" key="CommitChangelistDialog2" timestamp="1605140772977">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="288" y="1" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605140772977" />
     <state x="531" y="222" key="FileChooserDialogImpl" timestamp="1604553364017">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
