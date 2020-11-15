@@ -27,7 +27,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aeae53d-d7db-4ae8-a08b-9fad72b441a3" name="Default Changelist" comment="" />
+    <list default="true" id="5aeae53d-d7db-4ae8-a08b-9fad72b441a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605388413312</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first modification">
+      <created>1605391823098</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605391823098</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,10 +234,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1604809749768" />
-    <state x="288" y="1" key="CommitChangelistDialog2" timestamp="1605388412576">
+    <state x="288" y="1" key="CommitChangelistDialog2" timestamp="1605391822349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="288" y="1" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605388412576" />
+    <state x="288" y="1" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605391822349" />
     <state x="531" y="222" key="FileChooserDialogImpl" timestamp="1604553364017">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
